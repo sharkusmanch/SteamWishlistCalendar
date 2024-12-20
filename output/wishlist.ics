@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:SteamWishlistCalendar
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+SUMMARY:Kingdom Come: Deliverance II
+UID:1771300
+DESCRIPTION:https://store.steampowered.com/app/1771300\n\nA thrilling 
+ story-driven action RPG\, with a rich open world\, set in 15th century 
+ Medieval Europe. Experience the ultimate medieval adventure - through the 
+ eyes of young Henry - as you embark on a journey of epic 
+ proportions.\n\nDate string from steam: "2025-02-04"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250305
+SUMMARY:Two Point Museum
+UID:2185060
+DESCRIPTION:https://store.steampowered.com/app/2185060\n\nCurate and manage
+  incredible museums! \r\n\r\nExplore to discover amazing artifacts. Design
+  and refine the layout\, keep staff happy\, guests entertained\, donations
+  plentiful… and children off the exhibits\n\nDate string from steam: 
+ "2025-03-04"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:THE STARBITES
+UID:2199080
+DESCRIPTION:https://store.steampowered.com/app/2199080\n\nThe story of a 
+ girl's growth and adventure on a vast desert planet\, "Bitter."\n\nDate 
+ string from steam: "2025-12-31"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:HARUKA: Beyond the Stars
+UID:2425200
+DESCRIPTION:https://store.steampowered.com/app/2425200\n\nHARUKA: Beyond 
+ the Stars  is a juvenile sci-fi RPG about the intergalactic adventures of 
+ the protagonist\, Yuuki\, and a mysterious girl named Miiya.\r\nSet out on
+  a spaceship and explore unique planets. Enjoy a thrilling adventure in 
+ the latest 3D anime art style.\n\nDate string from steam: "2026-12-31"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250117
+SUMMARY:Tales of Graces f Remastered
+UID:2530980
+DESCRIPTION:https://store.steampowered.com/app/2530980\n\nTales of Graces f
+  is back with a beautiful and easier-to-play version! The game also 
+ includes Lineage and Legacies\, an after-story to the main 
+ scenario!\n\nDate string from steam: "2025-01-16"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250403
+DTEND;VALUE=DATE:20250404
+SUMMARY:The Last of Us™ Part II Remastered
+UID:2531310
+DESCRIPTION:https://store.steampowered.com/app/2531310\n\nExperience the 
+ winner of over 300 Game of the Year awards\, now on PC. Discover Ellie and
+  Abby’s story with graphical enhancements\, gameplay modes like the 
+ roguelike survival experience No Return\, and more.\n\nDate string from 
+ steam: "2025-04-03"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
+SUMMARY:Ys X: Nordics
+UID:2731870
+DESCRIPTION:https://store.steampowered.com/app/2731870\n\nExplore uncharted
+  islands\, engage in fast-paced action combat\, and experience the high 
+ seas adventures of unlikely allies Adol and Karja in Ys X: 
+ Nordics!\n\nDate string from steam: "2024-10-25"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:FREEDOM WARS Remastered
+UID:3004100
+DESCRIPTION:https://store.steampowered.com/app/3004100\n\nBorn into a one-
+ million-year prison sentence\, you must survive deadly missions to earn 
+ any hope of freedom. Die in prison or live on the battlefield. The choice 
+ is yours.\n\nDate string from steam: "2025-01-09"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:DOOM: The Dark Ages
+UID:3017860
+DESCRIPTION:https://store.steampowered.com/app/3017860\n\nYOU ARE THE SUPER
+  WEAPON IN A MEDIEVAL WAR AGAINST HELL\n\nDate string from steam: 
+ "2025-12-31"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Phantom Brave: The Lost Hero
+UID:3049990
+DESCRIPTION:https://store.steampowered.com/app/3049990\n\nJoin Marona and 
+ her Phantom friends on a mission to defeat the sinister Shipwreck Fleet! 
+ Recruit Phantoms\, bind them to objects\, combine them with Gadgets\, and 
+ even merge them with Marona herself in this Play-It-Your-Way RPG.\n\nDate 
+ string from steam: "2025-12-31"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+SUMMARY:Assassin’s Creed Shadows
+UID:3159330
+DESCRIPTION:https://store.steampowered.com/app/3159330\n\nExperience an 
+ epic action-adventure story set in Feudal Japan! Become a shinobi assassin
+  and legendary samurai as you explore a beautiful open world in a time of 
+ chaos. Switch between these two unlikely allies as you discover their 
+ common destiny and usher in a new era for Japan.\n\nDate string from 
+ steam: "2025-02-14"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Crimson Desert
+UID:3321460
+DESCRIPTION:https://store.steampowered.com/app/3321460\n\nCrimson Desert is
+  an open-world action-adventure set in the beautiful yet brutal continent 
+ of Pywel. Discover adventure\, uncover wonders\, and experience thrilling 
+ action as you witness the saga surrounding Kliff\, leader of the 
+ Greymanes\, whose mission takes him on an incredible journey.\n\nDate 
+ string from steam: "2025-12-31"
+LAST-MODIFIED:20241220T202510Z
+DTSTAMP:20241220T202510Z
+CATEGORIES:game_release
+END:VEVENT
+END:VCALENDAR
