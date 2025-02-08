@@ -11,8 +11,8 @@ DESCRIPTION:https://store.steampowered.com/app/801800\n\nA nuclear disaster
  game\, will see you explore\, scavenge\, craft\, barter and fight your way
   through beautifully recreated scenery in search of answers.\n\nDate 
  string from steam: "2025-03-27"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -25,8 +25,8 @@ DESCRIPTION:https://store.steampowered.com/app/1373090\n\nRule your
  this cinematic kingdom management RPG. Balance your resources\, collect 
  taxes\, hire agents and make difficult decisions to see your kingdom 
  prosper or fail.\n\nDate string from steam: "2025-03-31"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +37,8 @@ UID:1449110
 DESCRIPTION:https://store.steampowered.com/app/1449110\n\nThe Outer Worlds 
  2 is the sequel to the award-winning first-person sci-fi RPG from Obsidian
   Entertainment.\n\nDate string from steam: "2025-12-31"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -52,8 +52,8 @@ DESCRIPTION:https://store.steampowered.com/app/1601570\n\nExplore an
  space expedition—create alternative versions of himself to escape a 
  hostile planet and tackle personal turmoils with this unconventional 
  crew.\n\nDate string from steam: "2025-03-31"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -66,8 +66,8 @@ DESCRIPTION:https://store.steampowered.com/app/1643320\n\nDiscover the vast
   powerful artifacts. Unveil your own epic story as you make your way to 
  the Heart of Chornobyl. Make your choices wisely\, as they will determine 
  your fate in the end.\n\nDate string from steam: "2024-11-20"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -80,8 +80,8 @@ DESCRIPTION:https://store.steampowered.com/app/1903340\n\nLead the members
  never paint death again. Explore a world of wonders inspired by Belle 
  Époque France and battle unique enemies in this turn-based RPG with real-
  time mechanics.\n\nDate string from steam: "2025-04-24"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -94,35 +94,8 @@ DESCRIPTION:https://store.steampowered.com/app/1934570\n\nSouth of Midnight
  confront mysterious creatures of the Deep South in this modern folktale 
  while learning to weave an ancient power to surmount obstacles and unravel
   your family’s hidden past.\n\nDate string from steam: "2025-04-08"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
-CATEGORIES:game_release
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250306
-DTEND;VALUE=DATE:20250307
-SUMMARY:Split Fiction
-UID:2001120
-DESCRIPTION:https://store.steampowered.com/app/2001120\n\nEmbrace mind-
- blowing moments as you’re pulled deep into the many worlds of Split 
- Fiction\, a boundary-pushing co-op adventure.\n\nDate string from steam: 
- "2025-03-06"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
-CATEGORIES:game_release
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250304
-DTEND;VALUE=DATE:20250305
-SUMMARY:Two Point Museum
-UID:2185060
-DESCRIPTION:https://store.steampowered.com/app/2185060\n\nCurate and manage
-  incredible museums! \r\n\r\nExplore to discover amazing artifacts. Design
-  and refine the layout\, keep staff happy\, guests entertained\, donations
-  plentiful… and children off the exhibits\n\nDate string from steam: 
- "2025-03-04"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -133,22 +106,8 @@ UID:2199080
 DESCRIPTION:https://store.steampowered.com/app/2199080\n\nThe story of a 
  girl's growth and adventure on a vast desert planet\, "Bitter."\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
-CATEGORIES:game_release
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
-SUMMARY:Monster Hunter Wilds
-UID:2246340
-DESCRIPTION:https://store.steampowered.com/app/2246340\n\nThe unbridled 
- force of nature runs wild and relentless\, with environments transforming 
- drastically from one moment to the next.\r\nThis is a story of monsters 
- and humans and their struggles to live in harmony in a world of 
- duality.\n\nDate string from steam: "2025-02-28"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -161,34 +120,8 @@ DESCRIPTION:https://store.steampowered.com/app/2425200\n\nHARUKA: Beyond
  the protagonist\, Yuuki\, and a mysterious girl named Miiya.\r\nSet out on
   a spaceship and explore unique planets. Enjoy a thrilling adventure in 
  the latest 3D anime art style.\n\nDate string from steam: "2026-12-31"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
-CATEGORIES:game_release
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250218
-DTEND;VALUE=DATE:20250219
-SUMMARY:Avowed
-UID:2457220
-DESCRIPTION:https://store.steampowered.com/app/2457220\n\nAvowed is a 
- first-person fantasy RPG from Obsidian Entertainment.\n\nDate string from 
- steam: "2025-02-18"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
-CATEGORIES:game_release
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250403
-DTEND;VALUE=DATE:20250404
-SUMMARY:The Last of Us™ Part II Remastered
-UID:2531310
-DESCRIPTION:https://store.steampowered.com/app/2531310\n\nExperience the 
- winner of over 300 Game of the Year awards\, now on PC. Discover Ellie and
-  Abby’s story with graphical enhancements\, gameplay modes like the 
- roguelike survival experience No Return\, and more.\n\nDate string from 
- steam: "2025-04-03"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -202,8 +135,8 @@ DESCRIPTION:https://store.steampowered.com/app/2864560\n\nWelcome to the
  gods. Along the way\, battle corrupted monsters\, rebuild seasonal farms 
  and villages\, and form bonds with the colorful locals.\n\nDate string 
  from steam: "2025-05-30"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -213,8 +146,8 @@ SUMMARY:DRAGON QUEST I & II HD-2D Remake
 UID:2893570
 DESCRIPTION:https://store.steampowered.com/app/2893570\n\nThe Legacy 
  Begins\n\nDate string from steam: "2025-12-31"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -227,8 +160,8 @@ DESCRIPTION:https://store.steampowered.com/app/3014080\n\nA new adventure
  are tasked with defending a school from grotesque monsters for 100 days. 
  Can they make it to the end? And will they survive long enough to uncover 
  the truth?\n\nDate string from steam: "2025-04-23"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -242,8 +175,8 @@ DESCRIPTION:https://store.steampowered.com/app/3017860\n\nDOOM: The Dark
  Players will step into the blood-stained boots of the DOOM Slayer\, in 
  this never-before-seen dark and sinister medieval war against 
  Hell.\n\nDate string from steam: "2025-05-15"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -256,8 +189,8 @@ DESCRIPTION:https://store.steampowered.com/app/3049990\n\nJoin Marona and
  Recruit Phantoms\, bind them to objects\, combine them with Gadgets\, and 
  even merge them with Marona herself in this Play-It-Your-Way RPG.\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -271,8 +204,8 @@ DESCRIPTION:https://store.steampowered.com/app/3123410\n\n"Atelier Yumia"
  and can also be used in battles and exploration. Additionally\, you can 
  create your own base with “Building" in the field.\n\nDate string from 
  steam: "2025-03-21"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -286,8 +219,8 @@ DESCRIPTION:https://store.steampowered.com/app/3255380\n\nDive into the
  enemies like the Magic Emperor and God of Destruction to save the world 
  from dire peril in two adventures set 1000 years apart from each 
  other!\n\nDate string from steam: "2025-04-18"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -301,8 +234,8 @@ DESCRIPTION:https://store.steampowered.com/app/3321460\n\nCrimson Desert is
  action as you witness the saga surrounding Kliff\, leader of the 
  Greymanes\, whose mission takes him on an incredible journey.\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250202T040544Z
-DTSTAMP:20250202T040544Z
+LAST-MODIFIED:20250208T014833Z
+DTSTAMP:20250208T014833Z
 CATEGORIES:game_release
 END:VEVENT
 END:VCALENDAR
