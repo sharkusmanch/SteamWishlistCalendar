@@ -11,8 +11,22 @@ DESCRIPTION:https://store.steampowered.com/app/801800\n\nA nuclear disaster
  game\, will see you explore\, scavenge\, craft\, barter and fight your way
   through beautifully recreated scenery in search of answers.\n\nDate 
  string from steam: "2025-03-27"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250924
+SUMMARY:Borderlands 4
+UID:1285190
+DESCRIPTION:https://store.steampowered.com/app/1285190\n\nBorderlands 4 is 
+ a mayhem-fueled looter shooter\, jam-packed with billions of weapons\, 
+ outrageous enemies\, and intense co-op action. Break free from a dangerous
+  hidden planet as one of four new badass Vault Hunters. Coming 2025. 
+ Wishlist now!\n\nDate string from steam: "2025-09-23"
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -25,8 +39,8 @@ DESCRIPTION:https://store.steampowered.com/app/1373090\n\nRule your
  this cinematic kingdom management RPG. Balance your resources\, collect 
  taxes\, hire agents and make difficult decisions to see your kingdom 
  prosper or fail.\n\nDate string from steam: "2025-03-31"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -37,13 +51,13 @@ UID:1449110
 DESCRIPTION:https://store.steampowered.com/app/1449110\n\nThe Outer Worlds 
  2 is the sequel to the award-winning first-person sci-fi RPG from Obsidian
   Entertainment.\n\nDate string from steam: "2025-12-31"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250331
-DTEND;VALUE=DATE:20250401
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
 SUMMARY:The Alters
 UID:1601570
 DESCRIPTION:https://store.steampowered.com/app/1601570\n\nExplore an 
@@ -51,9 +65,9 @@ DESCRIPTION:https://store.steampowered.com/app/1601570\n\nExplore an
  base-building elements. Help Jan Dolski—the sole survivor of an ill-fated 
  space expedition—create alternative versions of himself to escape a 
  hostile planet and tackle personal turmoils with this unconventional 
- crew.\n\nDate string from steam: "2025-03-31"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+ crew.\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -66,8 +80,8 @@ DESCRIPTION:https://store.steampowered.com/app/1643320\n\nDiscover the vast
   powerful artifacts. Unveil your own epic story as you make your way to 
  the Heart of Chornobyl. Make your choices wisely\, as they will determine 
  your fate in the end.\n\nDate string from steam: "2024-11-20"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -80,8 +94,8 @@ DESCRIPTION:https://store.steampowered.com/app/1903340\n\nLead the members
  never paint death again. Explore a world of wonders inspired by Belle 
  Époque France and battle unique enemies in this turn-based RPG with real-
  time mechanics.\n\nDate string from steam: "2025-04-24"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -94,8 +108,8 @@ DESCRIPTION:https://store.steampowered.com/app/1934570\n\nSouth of Midnight
  confront mysterious creatures of the Deep South in this modern folktale 
  while learning to weave an ancient power to surmount obstacles and unravel
   your family’s hidden past.\n\nDate string from steam: "2025-04-08"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -106,8 +120,22 @@ UID:2199080
 DESCRIPTION:https://store.steampowered.com/app/2199080\n\nThe story of a 
  girl's growth and adventure on a vast desert planet\, "Bitter."\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:Directive 8020
+UID:2255370
+DESCRIPTION:https://store.steampowered.com/app/2255370\n\nEarth is dying 
+ and humanity is running out of time. 12 light years from home\, Tau Ceti f
+  offers a small sliver of hope. When the colony ship Cassiopeia crash 
+ lands on the planet\, its crew soon realize they are far from being 
+ alone.\n\nDate string from steam: "2025-10-02"
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -120,8 +148,8 @@ DESCRIPTION:https://store.steampowered.com/app/2425200\n\nHARUKA: Beyond
  the protagonist\, Yuuki\, and a mysterious girl named Miiya.\r\nSet out on
   a spaceship and explore unique planets. Enjoy a thrilling adventure in 
  the latest 3D anime art style.\n\nDate string from steam: "2026-12-31"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +163,8 @@ DESCRIPTION:https://store.steampowered.com/app/2668430\n\nReturn to the
   Chaos looming on the horizon\, the spriggan Van Arkride receives an 
  unexpected visitor. Who is behind the murders\, and what is their 
  goal?\n\nDate string from steam: "2025-02-14"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -148,8 +176,8 @@ DESCRIPTION:https://store.steampowered.com/app/2731870\n\nExplore uncharted
   islands\, engage in fast-paced action combat\, and experience the high 
  seas adventures of unlikely allies Adol and Karja in Ys X: 
  Nordics!\n\nDate string from steam: "2024-10-25"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +191,8 @@ DESCRIPTION:https://store.steampowered.com/app/2864560\n\nWelcome to the
  gods. Along the way\, battle corrupted monsters\, rebuild seasonal farms 
  and villages\, and form bonds with the colorful locals.\n\nDate string 
  from steam: "2025-05-30"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -174,8 +202,8 @@ SUMMARY:DRAGON QUEST I & II HD-2D Remake
 UID:2893570
 DESCRIPTION:https://store.steampowered.com/app/2893570\n\nThe Legacy 
  Begins\n\nDate string from steam: "2025-12-31"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -188,8 +216,8 @@ DESCRIPTION:https://store.steampowered.com/app/3014080\n\nA new adventure
  are tasked with defending a school from grotesque monsters for 100 days. 
  Can they make it to the end? And will they survive long enough to uncover 
  the truth?\n\nDate string from steam: "2025-04-23"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -203,8 +231,8 @@ DESCRIPTION:https://store.steampowered.com/app/3017860\n\nDOOM: The Dark
  Players will step into the blood-stained boots of the DOOM Slayer\, in 
  this never-before-seen dark and sinister medieval war against 
  Hell.\n\nDate string from steam: "2025-05-15"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -217,8 +245,23 @@ DESCRIPTION:https://store.steampowered.com/app/3049990\n\nJoin Marona and
  Recruit Phantoms\, bind them to objects\, combine them with Gadgets\, and 
  even merge them with Marona herself in this Play-It-Your-Way RPG.\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250305
+SUMMARY:PowerWash Simulator – Wallace & Gromit Special Pack
+UID:3077590
+DESCRIPTION:https://store.steampowered.com/app/3077590\n\nEnter the 
+ wonderful world of Wallace & Gromit in PowerWash Simulator’s next big 
+ adventure – coming soon! Fire up WASH LAD\, Wallace’s latest quirky 
+ contraption\, and commence the most cracking of clean-ups. The patent may 
+ be pending but Project Scrub Down can’t wait!\n\nDate string from steam: 
+ "2025-03-04"
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -232,8 +275,8 @@ DESCRIPTION:https://store.steampowered.com/app/3123410\n\n"Atelier Yumia"
  and can also be used in battles and exploration. Additionally\, you can 
  create your own base with “Building" in the field.\n\nDate string from 
  steam: "2025-03-21"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -247,8 +290,8 @@ DESCRIPTION:https://store.steampowered.com/app/3255380\n\nDive into the
  enemies like the Magic Emperor and God of Destruction to save the world 
  from dire peril in two adventures set 1000 years apart from each 
  other!\n\nDate string from steam: "2025-04-18"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -262,8 +305,21 @@ DESCRIPTION:https://store.steampowered.com/app/3321460\n\nCrimson Desert is
  action as you witness the saga surrounding Kliff\, leader of the 
  Greymanes\, whose mission takes him on an incredible journey.\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250208T040540Z
-DTSTAMP:20250208T040540Z
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:Stellar Blade™
+UID:3489700
+DESCRIPTION:https://store.steampowered.com/app/3489700\n\nSave humanity 
+ from extinction in post-apocalyptic action-adventure Stellar Blade™. 
+ Experience blistering combat and a twisting storyline as you unravel the 
+ mysteries of Earth’s downfall.\n\nDate string from steam: "2025-06-30"
+LAST-MODIFIED:20250213T040624Z
+DTSTAMP:20250213T040624Z
 CATEGORIES:game_release
 END:VEVENT
 END:VCALENDAR
