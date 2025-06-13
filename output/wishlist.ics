@@ -10,8 +10,8 @@ DESCRIPTION:https://store.steampowered.com/app/1004640\n\nFeaturing fully
  voiced dialogue\, beautifully enhanced graphics\, and countless gameplay 
  improvements\, the genre-defining tactical RPG makes its long-awaited 
  return.\n\nDate string from steam: "2025-09-30"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -24,8 +24,8 @@ DESCRIPTION:https://store.steampowered.com/app/1285190\n\nBorderlands 4 is
  deadly enemies\, and intense co-op action. Break free from a dangerous 
  hidden planet as one of four new badass Vault Hunters.\n\nDate string from
   steam: "2025-09-12"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -36,8 +36,8 @@ UID:1449110
 DESCRIPTION:https://store.steampowered.com/app/1449110\n\nThe Outer Worlds 
  2 is the sequel to the award-winning first-person sci-fi RPG from Obsidian
   Entertainment.\n\nDate string from steam: "2025-10-29"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -50,8 +50,8 @@ DESCRIPTION:https://store.steampowered.com/app/1466060\n\nStep into a dark
  Explore a world stuck in everlasting autumn\, witness falling legends and 
  make meaningful choices woven into a complex\, branching 
  storyline.\n\nDate string from steam: "2025-05-23"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -63,23 +63,8 @@ DESCRIPTION:https://store.steampowered.com/app/1486920\n\nCommand distinct
  factions in a desperate struggle for power and resources in Tempest Rising
   - a classic RTS set on Earth after a nuclear war.\n\nDate string from 
  steam: "2025-04-24"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
-CATEGORIES:game_release
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250613
-DTEND;VALUE=DATE:20250614
-SUMMARY:The Alters
-UID:1601570
-DESCRIPTION:https://store.steampowered.com/app/1601570\n\nExplore an 
- emotional sci-fi game with a unique blend of survival\, adventure\, and 
- base-building elements. Help Jan Dolski\, the sole survivor of an ill-
- fated space expedition\, create alternative versions of himself to escape 
- a hostile planet and tackle personal turmoils with this unconventional 
- crew.\n\nDate string from steam: "2025-06-13"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -92,8 +77,8 @@ DESCRIPTION:https://store.steampowered.com/app/2055590\n\nStar Overdrive is
  planet on your Hoverboard\, mastering tricks\, battling enemies\, solving 
  puzzles\, and using your powers to overcome challenges and shape your 
  destiny!\n\nDate string from steam: "2025-06-19"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -106,8 +91,8 @@ DESCRIPTION:https://store.steampowered.com/app/2104890\n\nAs the leader of
   use your construction machinery to restart the local industry. Clear 
  debris and faulty equipment\, rebuild roads and bridges damaged by 
  weather\, and much more!\n\nDate string from steam: "2025-05-20"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -118,8 +103,8 @@ UID:2199080
 DESCRIPTION:https://store.steampowered.com/app/2199080\n\nThe story of a 
  girl's growth and adventure on a vast desert planet\, "Bitter."\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -133,8 +118,8 @@ DESCRIPTION:https://store.steampowered.com/app/2255370\n\nEarth is dying
  lands on the planet\, its crew soon realize they are far from being alone.
   In space\, death takes many forms.\n\nDate string from steam: 
  "2025-10-02"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -147,8 +132,8 @@ DESCRIPTION:https://store.steampowered.com/app/2288350\n\nThe story of
   returns in this remastered classic! Call upon your demons to solve 
  supernatural mysteries and dispose of enemies.\n\nDate string from steam: 
  "2025-06-19"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -161,8 +146,8 @@ DESCRIPTION:https://store.steampowered.com/app/2425200\n\nHARUKA: Beyond
  the protagonist\, Yuuki\, and a mysterious girl named Miiya.\r\nSet out on
   a spaceship and explore unique planets. Enjoy a thrilling adventure in 
  the latest 3D anime art style.\n\nDate string from steam: "2026-12-31"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -176,8 +161,8 @@ DESCRIPTION:https://store.steampowered.com/app/2508780\n\nSearching for a
  grow crops and raise animals\, get to know the locals\, and sell your 
  wares at the town's bazaar to restore it to its former glory.\n\nDate 
  string from steam: "2025-08-27"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -189,8 +174,8 @@ DESCRIPTION:https://store.steampowered.com/app/2523720\n\nExperience the
  origins of one of gaming’s most acclaimed franchises like never before\, 
  faithfully remastered and optimized for PC.  \n\nDate string from steam: 
  "2025-08-26"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -203,8 +188,8 @@ DESCRIPTION:https://store.steampowered.com/app/2545710\n\nGet hyped for the
  Everything you loved is back\, but revamped with more skaters\, new 
  parks\, gnarlier tricks\, eardrum shattering music\, plus a whole lot 
  more.\n\nDate string from steam: "2025-07-11"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -218,8 +203,8 @@ DESCRIPTION:https://store.steampowered.com/app/2668430\n\nReturn to the
   Chaos looming on the horizon\, the spriggan Van Arkride receives an 
  unexpected visitor. Who is behind the murders\, and what is their 
  goal?\n\nDate string from steam: "2025-02-14"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -232,8 +217,8 @@ DESCRIPTION:https://store.steampowered.com/app/2713000\n\nEmbark on an
  Sophia\, journey to the Minotaur’s Island\, outsmart deadly foes\, unravel
   ancient secrets\, and confront a mythical creature at the heart of a 
  devastating curse. \n\nDate string from steam: "2026-12-31"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -245,8 +230,8 @@ DESCRIPTION:https://store.steampowered.com/app/2731870\n\nExplore uncharted
   islands\, engage in fast-paced action combat\, and experience the high 
  seas adventures of unlikely allies Adol and Karja in Ys X: 
  Nordics!\n\nDate string from steam: "2024-10-25"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -260,8 +245,8 @@ DESCRIPTION:https://store.steampowered.com/app/2864560\n\nWelcome to the
  gods. Along the way\, battle corrupted monsters\, rebuild seasonal farms 
  and villages\, and form bonds with the colorful locals.\n\nDate string 
  from steam: "2025-06-05"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -273,8 +258,8 @@ DESCRIPTION:https://store.steampowered.com/app/2893570\n\nDRAGON QUEST I &
  II HD-2D Remake is a stunning reimagination of the first two legendary 
  adventures in The Erdrick Trilogy\, brought together in one 
  package.\n\nDate string from steam: "2025-10-30"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -288,8 +273,8 @@ DESCRIPTION:https://store.steampowered.com/app/2958130\n\nPre-Purchase now
  create and manage sprawling prehistoric parks around the globe\, and let 
  your imagination roar with powerful new creative options. \n\nDate string 
  from steam: "2025-10-21"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -302,8 +287,8 @@ DESCRIPTION:https://store.steampowered.com/app/2968420\n\nPowerWash
  and splashy features. Effortlessly transform soiled surroundings into 
  clean\, serene scenes\, solo or with pals. Satisfaction is a spray 
  away!\n\nDate string from steam: "2025-12-31"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -316,8 +301,8 @@ DESCRIPTION:https://store.steampowered.com/app/3008130\n\nUnleash the beast
  on\, you are out for revenge. Experience a unique blend of open world and 
  action survival horror as you hunt down the man who turned you into half 
  man\, half beast.\n\nDate string from steam: "2025-08-22"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -329,8 +314,8 @@ DESCRIPTION:https://store.steampowered.com/app/3061570\n\n“We’re the
  Phantom Thieves\, and we’re here to steal your heart!”\r\nThe beloved RPG 
  series with over 22 million copies sold\r\nfinally arrives on PC and 
  mobile! \n\nDate string from steam: "2025-06-26"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -344,8 +329,8 @@ DESCRIPTION:https://store.steampowered.com/app/3255380\n\nDive into the
  enemies like the Magic Emperor and God of Destruction to save the world 
  from dire peril in two adventures set 1000 years apart from each 
  other!\n\nDate string from steam: "2025-04-18"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -359,8 +344,8 @@ DESCRIPTION:https://store.steampowered.com/app/3321460\n\nCrimson Desert is
  action as you witness the saga surrounding Kliff\, leader of the 
  Greymanes\, whose mission takes him on an incredible journey.\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -372,8 +357,8 @@ DESCRIPTION:https://store.steampowered.com/app/3489700\n\nSave humanity
  from extinction in post-apocalyptic action-adventure Stellar Blade™. 
  Experience blistering combat and a twisting storyline as you unravel the 
  mysteries of Earth’s downfall.\n\nDate string from steam: "2025-06-11"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -383,8 +368,8 @@ SUMMARY:Resident Evil Requiem
 UID:3764200
 DESCRIPTION:https://store.steampowered.com/app/3764200\n\nRequiem for the 
  dead. Nightmare for the living.\n\nDate string from steam: "2026-02-27"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -398,8 +383,8 @@ DESCRIPTION:https://store.steampowered.com/app/3768760\n\nEarn the Number.
  reckless recruit in MI6's training programme\, and discover an origin 
  story of the world’s most famous spy.\n\nDate string from steam: 
  "2026-12-31"
-LAST-MODIFIED:20250610T200653Z
-DTSTAMP:20250610T200653Z
+LAST-MODIFIED:20250613T200642Z
+DTSTAMP:20250613T200642Z
 CATEGORIES:game_release
 END:VEVENT
 END:VCALENDAR
