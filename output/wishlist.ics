@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:SteamWishlistCalendar
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250912
-DTEND;VALUE=DATE:20250913
-SUMMARY:Borderlands 4
-UID:1285190
-DESCRIPTION:https://store.steampowered.com/app/1285190\n\nBorderlands 4 is 
- a mayhem-fueled looter shooter\, jam-packed with billions of weapons\, 
- deadly enemies\, and intense co-op action. Break free from a dangerous 
- hidden planet as one of four new badass Vault Hunters.\n\nDate string from
-  steam: "2025-09-12"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
-CATEGORIES:game_release
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 SUMMARY:The Outer Worlds 2
@@ -23,8 +9,8 @@ UID:1449110
 DESCRIPTION:https://store.steampowered.com/app/1449110\n\nThe Outer Worlds 
  2 is the sequel to the award-winning first-person sci-fi RPG from Obsidian
   Entertainment.\n\nDate string from steam: "2025-10-29"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +23,8 @@ DESCRIPTION:https://store.steampowered.com/app/1466060\n\nStep into a dark
  Explore a world stuck in everlasting autumn\, witness falling legends and 
  make meaningful choices woven into a complex\, branching 
  storyline.\n\nDate string from steam: "2025-05-23"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -50,8 +36,8 @@ DESCRIPTION:https://store.steampowered.com/app/1486920\n\nCommand distinct
  factions in a desperate struggle for power and resources in Tempest Rising
   - a classic RTS set on Earth after a nuclear war.\n\nDate string from 
  steam: "2025-04-24"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -62,8 +48,8 @@ UID:2199080
 DESCRIPTION:https://store.steampowered.com/app/2199080\n\nThe story of a 
  girl's growth and adventure on a vast desert planet\, "Bitter."\n\nDate 
  string from steam: "2026-06-30"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -77,8 +63,8 @@ DESCRIPTION:https://store.steampowered.com/app/2255370\n\nEarth is dying
  lands on the planet\, its crew soon realize they are far from being alone.
   In space\, death takes many forms.\n\nDate string from steam: 
  "2026-12-31"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -91,8 +77,8 @@ DESCRIPTION:https://store.steampowered.com/app/2425200\n\nHARUKA: Beyond
  the protagonist\, Yuuki\, and a mysterious girl named Miiya.\r\nSet out on
   a spaceship and explore unique planets. Enjoy a thrilling adventure in 
  the latest 3D anime art style.\n\nDate string from steam: "2026-12-31"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -104,8 +90,8 @@ DESCRIPTION:https://store.steampowered.com/app/2486820\n\nRace across
  land\, sea\, air\, space\, and time in Sonic Racing: CrossWorlds! Warp 
  through Travel Rings into new dimensions where something new awaits around
   every twist and turn.\n\nDate string from steam: "2025-09-25"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -119,21 +105,8 @@ DESCRIPTION:https://store.steampowered.com/app/2508780\n\nSearching for a
  grow crops and raise animals\, get to know the locals\, and sell your 
  wares at the town's bazaar to restore it to its former glory.\n\nDate 
  string from steam: "2025-08-27"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
-CATEGORIES:game_release
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-DTEND;VALUE=DATE:20250827
-SUMMARY:Gears of War: Reloaded
-UID:2523720
-DESCRIPTION:https://store.steampowered.com/app/2523720\n\nExperience the 
- origins of one of gaming’s most acclaimed franchises like never before\, 
- faithfully remastered and optimized for PC.  \n\nDate string from steam: 
- "2025-08-26"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -146,8 +119,8 @@ DESCRIPTION:https://store.steampowered.com/app/2592160\n\nDispatch is a
  team of misfit heroes and strategize who to send to emergencies around the
   city\, all while balancing office politics\, personal relationships\, and
   your own quest to become a hero.\n\nDate string from steam: "2025-12-31"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -161,8 +134,8 @@ DESCRIPTION:https://store.steampowered.com/app/2668430\n\nReturn to the
   Chaos looming on the horizon\, the spriggan Van Arkride receives an 
  unexpected visitor. Who is behind the murders\, and what is their 
  goal?\n\nDate string from steam: "2025-02-14"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -175,8 +148,8 @@ DESCRIPTION:https://store.steampowered.com/app/2713000\n\nEmbark on an
  Sophia\, journey to the Minotaur’s Island\, outsmart deadly foes\, unravel
   ancient secrets\, and confront a mythical creature at the heart of a 
  devastating curse. \n\nDate string from steam: "2026-12-31"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -190,8 +163,8 @@ DESCRIPTION:https://store.steampowered.com/app/2864560\n\nWelcome to the
  gods. Along the way\, battle corrupted monsters\, rebuild seasonal farms 
  and villages\, and form bonds with the colorful locals.\n\nDate string 
  from steam: "2025-06-05"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -203,8 +176,8 @@ DESCRIPTION:https://store.steampowered.com/app/2893570\n\nDRAGON QUEST I &
  II HD-2D Remake is a stunning reimagination of the first two legendary 
  adventures in The Erdrick Trilogy\, brought together in one 
  package.\n\nDate string from steam: "2025-10-30"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -218,8 +191,8 @@ DESCRIPTION:https://store.steampowered.com/app/2958130\n\nPre-Purchase now
  create and manage sprawling prehistoric parks around the globe\, and let 
  your imagination roar with powerful new creative options. \n\nDate string 
  from steam: "2025-10-21"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -232,8 +205,8 @@ DESCRIPTION:https://store.steampowered.com/app/2968420\n\nPowerWash
  and splashy features. Effortlessly transform soiled surroundings into 
  clean\, serene scenes\, solo or with pals. Satisfaction is a spray 
  away!\n\nDate string from steam: "2025-12-31"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -247,8 +220,8 @@ DESCRIPTION:https://store.steampowered.com/app/3255380\n\nDive into the
  enemies like the Magic Emperor and God of Destruction to save the world 
  from dire peril in two adventures set 1000 years apart from each 
  other!\n\nDate string from steam: "2025-04-18"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -262,8 +235,8 @@ DESCRIPTION:https://store.steampowered.com/app/3321460\n\nCrimson Desert is
  action as you witness the saga surrounding Kliff\, leader of the 
  Greymanes\, whose mission takes him on an incredible journey.\n\nDate 
  string from steam: "2025-12-31"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -273,8 +246,8 @@ SUMMARY:Resident Evil Requiem
 UID:3764200
 DESCRIPTION:https://store.steampowered.com/app/3764200\n\nRequiem for the 
  dead. Nightmare for the living.\n\nDate string from steam: "2026-02-27"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -288,8 +261,8 @@ DESCRIPTION:https://store.steampowered.com/app/3768760\n\nEarn the Number.
  reckless recruit in MI6's training programme\, and discover an origin 
  story of the world’s most famous spy.\n\nDate string from steam: 
  "2026-12-31"
-LAST-MODIFIED:20250728T042303Z
-DTSTAMP:20250728T042303Z
+LAST-MODIFIED:20250730T042217Z
+DTSTAMP:20250730T042217Z
 CATEGORIES:game_release
 END:VEVENT
 END:VCALENDAR
